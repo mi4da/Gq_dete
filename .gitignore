@@ -1,0 +1,6 @@
+# 权重文件
+./*.weights
+
+# 图片文件
+./Test_Pic/*.jpg
+
